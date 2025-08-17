@@ -25,7 +25,3 @@ The Automobile Theft Detection System is a comprehensive security solution desig
 2. **Monitoring**: The system monitors the vehicle's location and movement continuously.
 3. **Alerts**: If unauthorized movement is detected, the owner receives a notification on the mobile app and the vehicle alarm is triggered.
 4. **Response**: Owners can take appropriate action, such as contacting authorities or tracking the vehicle's location using the mobile app.
-
-Contact
-For questions or feedback, contact the project maintainer: VALLAMKONDA MEGHA SAI LALITH 
-Email: mslalith17@gmail.com
